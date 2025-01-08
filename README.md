@@ -1,7 +1,7 @@
 # Amazon-Sales-Report-Innobyte--Services-Internship-Project-
 Amazon Sales Report using Python 📊
 Project Overview 🌟
-This repository hosts a data analysis project focused on Amazon Sales Data using Python. The goal is to analyze and derive actionable insights to enhance business decisions in areas such as sales performance, order status, fulfillment efficiency, and regional sales dynamics. This project was developed as part of an internship at Innobytes Services.
+This repository hosts a data analysis project focused on Amazon Sales Data using Python. The goal is to analyze and derive actionable insights to enhance business decisions in areas such as sales performance, order status, fulfillment efficiency, and regional sales dynamics. This project was developed as part of an internship at Innobyte Services.
 
 Project Objectives 🎯
 Data Analysis: Delve into Amazon sales data to uncover trends and key insights across various metrics like total sales, order volume, and product categories.
