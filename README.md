@@ -82,7 +82,7 @@ Enhance customer satisfaction by reducing delays and improving communication aro
 Contact 📬
 Feel free to reach out for any questions, suggestions, or collaboration:
 
-LinkedIn: Hari Krishna
+LinkedIn: https://www.linkedin.com/in/hari-krishna-178397145/
 Acknowledgements 🙏
 Thanks to Innobytes Services for providing the internship opportunity to work on this impactful project.
 Special mention to the data science community for inspiring and supporting this analysis journey.
